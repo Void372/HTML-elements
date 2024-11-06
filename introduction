@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> <u>My introduction</u></h1>
+<h3>I am Yatharth Gawali </h3>
+<h3>I am <mark>13 years old</mark></h3>
+<h3>I study in <U>IB MYP - 3</U> (<strong>8</strong><sup>th</sup> grade)  
+    <h3>I live in Chh. Sambhajinagar  (<i>formerly known as Aurangabad</i>), Maharastra</h3>
+    
+    <h3>I study in <i>Wockhardt Global School</i>
+        <br>
+        <h3>my favorite subjects are <mark> Language and Literature</mark>, <mark>Sciences</mark>, and <mark>Digital design </mark>
+            <br>
+            <h3> My hobbies are <mark>coding,</mark> <mark> gaming,</mark> <mark>3D designing,</mark> as well as <mark>writing literature.</mark></h3>
+            <h3>My favorite quotation is:</h3>
+
+              <h2>"A single dream, is more powerful than a 1000 realities"</h2>
+        <h3>-JRR Tolkien</h3>
